@@ -36,7 +36,7 @@
 			<div class="docs-section" style="margin-top: 15%">
 				<h4 class="animate fadeInDown one">Thomas A. McGonagle</h4>
 				<h5 class="animate fadeIn two">Senior Product Management Engineer at <a href="https://f5.com/" target="_blank">F5 Networks</a></h5>
-				<h5 class="animate fadeIn three">tasked with DevOps and Programmability</h5>
+				<h5 class="animate fadeIn two">tasked with DevOps and Programmability</h5>
 				<ul class="soc animate fadeIn two" style="margin-top: 30px">
 					<li><a class="soc-linkedin" href="https://www.linkedin.com/in/thomasmcgonagle" target="_blank"></a></li>
 					<li><a class="soc-github" href="https://github.com/mcgonagle" target="_blank"></a></li>
@@ -46,7 +46,6 @@
 				</ul>
 			</div>
 			<div class="docs-section animate fadeIn three" style="margin-top: 30px">
-				<p>A technologist <a href="https://en.gravatar.com/userimage/14870694/fda655f38dd806f8065e17411b83a0c9.jpg?size=200" target="_blank"></p>
 			</div>
 			<p class="animate fadeInDown four" style="text-align: right; margin-top: 15%">
 				<a href="https://github.com/mcgonagle/gridironops.com" target="_blank"><img src="https://img.shields.io/maintenance/yes/2017.svg"></a> 
