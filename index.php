@@ -36,13 +36,6 @@
 			<div class="docs-section" style="margin-top: 15%">
 				<h4 class="animate fadeInDown one">DevOps DIET</h4>
 				<h5 class="animate fadeIn two">A DevOps Manifesto of Sorts</h5>
-				<ul class="soc animate fadeIn two" style="margin-top: 30px">
-					<li><a class="soc-linkedin" href="https://www.linkedin.com/in/thomasmcgonagle" target="_blank"></a></li>
-					<li><a class="soc-github" href="https://github.com/mcgonagle" target="_blank"></a></li>
-					<li><a class="soc-youtube" href="https://www.youtube.com/user/mcgonagletom" target="_blank"></a></li>
-					<li><a class="soc-twitter" href="https://twitter.com/mcgonagle" target="_blank"></a></li>
-					<li><a class="soc-reddit" href="https://www.reddit.com/user/gridironops/" target="_blank"></a></li>
-				</ul>
 			</div>
 			<div class="docs-section animate fadeIn three" style="margin-top: 30px">
        <ul>
