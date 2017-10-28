@@ -46,10 +46,11 @@
 				</ul>
 			</div>
 			<div class="docs-section animate fadeIn three" style="margin-top: 30px">
+        <p><a href="http://slack.gridironops.com" target="_blank"><img src=""https://f5cloudsolutions.herokuapp.com/badge.svg"></a></p>
 			</div>
 			<p class="animate fadeInDown four" style="text-align: right; margin-top: 15%">
 				<a href="https://github.com/mcgonagle/gridironops.com" target="_blank"><img src="https://img.shields.io/maintenance/yes/2017.svg"></a> 
-				<a href="https://gridironops.herokuapp.com" target="_blank"><img src="https://gridironops.herokuapp.com/badge.svg"></a>
+				<a href="https://gridironops.herokuapp.com" target="_blank"><img src="https://f5cloudsolutions.herokuapp.com/badge.svg"></a>
 			</p>
 		</div>
 		<!-- End Document
