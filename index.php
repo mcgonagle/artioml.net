@@ -35,7 +35,7 @@
 		<div class="container">
 			<div class="docs-section" style="margin-top: 15%">
 				<h4 class="animate fadeInDown one">DevOps DIET</h4>
-				<h5 class="animate fadeIn two">A DevOps Manifesto of Sorts</h5>
+				<h5 class="animate fadeIn two">A DevOps Decision Cycle of Sorts</h5>
 			</div>
 			<div class="docs-section animate fadeIn three" style="margin-top: 30px">
        <ul>
